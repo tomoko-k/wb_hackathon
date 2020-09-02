@@ -8,6 +8,8 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=1vVjSGBHiUW-nEL4LgdXOU-Bv5y3
 <h2>参加者同士のコミュニケーションについて</h2>
 参加者は参加者用Slackに登録し、Slack上でコミュニケーションすることを原則としてください。尚、参加者がクローズに他のツールを用いてコミュニケーションをすることを禁じる訳ではありません。</br>
 <h2>開発物について</h2>
+開発者用リポジトリ
+https://github.com/tomoko-k/sample
 
 
 
